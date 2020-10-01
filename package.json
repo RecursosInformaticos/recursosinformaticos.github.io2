@@ -1,5 +1,5 @@
 {
-  "name": "angular-deploy-gh-pages-actions",
+  "name": "recursosinformaticos.github.io",
   "version": "1.3.1",
   "private": true,
   "description": "Github actions to automagically deploy your angular app to GitHub pages. ",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahsanayaz/angular-deploy-gh-pages-actions.git"
+    "url": "git+https://github.com/RecursosInformaticos/recursosinformaticos.github.io.git"
   },
   "keywords": [
     "actions",
